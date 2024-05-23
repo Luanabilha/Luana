@@ -65,3 +65,6 @@ span{
     border-radius: 0 20px 20px 0;
  }
 }
+.ativo{
+    background-color: var(--botao-ativo);
+}
