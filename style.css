@@ -47,6 +47,16 @@ span{
     border-left: 2px solid var(--botao-ativo);
     border-right: 2px solid var(--botao-ativo);
 }
+.botao.ativo{
+    background-color: var(--botao-ativo);
+
+}
+.aba-conteudo{
+    display: none;
+    }
+.aba-conteudo{
+    display:block;
+}
 .botao:first-child{
     border-radius: 20px 20px 0 0;
 }
