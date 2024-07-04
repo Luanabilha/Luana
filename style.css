@@ -1,6 +1,6 @@
 :root{
     --cor-de-fundo: #1e1e1e;
-    --verde: #5FFF57;
+    --verde: #87ff57;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58,55,94,0.5);
@@ -54,7 +54,7 @@ span{
 .aba-conteudo{
     display: none;
     }
-.aba-conteudo{
+.aba-conteudo.ativo{
     display:block;
 }
 .botao:first-child{
