@@ -8,10 +8,12 @@
 }
 
 *{
-    background-color: var(--cor-de-fundo);
+    
     color: var(--branco);
 }
-
+body{
+    background-color: var(--cor-de-fundo);
+}
 span{
     color: var(--verde);
 }
